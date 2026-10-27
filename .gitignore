@@ -1,0 +1,17 @@
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary output
+*.tmp
+*.log
+*.bak
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
