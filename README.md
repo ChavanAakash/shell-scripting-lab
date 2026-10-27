@@ -79,10 +79,6 @@ shell-scripting-lab/
 └── screenshots/
 ```
 
-## 📸 Screenshots and Examples
-
-The `screenshots/` folder is intended for terminal output and practical evidence. Add screenshots from your own runs, and make sure they do not expose passwords, access tokens, private keys, or other sensitive information.
-
 ## 🛡️ Safe Scripting Practices
 
 - Review scripts before running them.
